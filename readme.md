@@ -6,7 +6,7 @@
 
 Easy skeleton with user interface.
 
-Considering some functions to convenience to bring in AI :)
+Considering some functions for convenience to bring in AI :)
 
 ### Auto remove stones have no liberties.
 
